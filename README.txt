@@ -1,0 +1,1 @@
+This is a test repository to show some cool stuff about git
